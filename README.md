@@ -1,8 +1,6 @@
+# Projeto em contrução | Desafio Front-end - Módulo 2
 
-
-# Desafio | Front-end - Módulo 2
-
-O objetivo deste exercício é replicar o website encontrado no figma [``Desafio front academy 1.fig``](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
+O objetivo deste exercício é replicar o website encontrado no figma [`Desafio front academy 1.fig`](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
 
 ## Páginas obrigatórias
 
@@ -126,10 +124,5 @@ Seções
 - Contato Section ![](https://i.imgur.com/e88URFi.png)
 
 - Footer ![](https://i.imgur.com/P06m37L.png)
-
-
-
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
 
 ###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`

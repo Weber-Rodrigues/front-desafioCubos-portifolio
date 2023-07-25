@@ -1,135 +1,132 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    display: flex;
-    min-height: 100vh;
-    width: 1440px;
-    flex-direction: column; 
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .container {
-    margin-left: 164px;
-    margin-right: 165px;
+  margin-left: 164px;
+  margin-right: 165px;
 }
 
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 1111px;
-    height: 32px;
-    margin-top: 60px;
-    position: sticky;
-    top: 0px;
-    z-index: 1;
-    background-color: #FAFAFA;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 32px;
+  margin-top: 60px;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  background-color: #fafafa;
 }
 
 header nav ul {
-    display: flex;
-    list-style: none;
-    gap: 42px;
+  display: flex;
+  list-style: none;
+  gap: 42px;
 }
 
 header nav ul li a {
-    text-decoration: none;
-    font-family: 'Public Sans', sans -serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 14px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: #33323D;
+  text-decoration: none;
+  font-family: "Public Sans", sans -serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #33323d;
 }
-                
+
 .contact-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 84px;
-    margin-top: 149px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 84px;
+  margin-top: 149px;
 }
 
 .contact-content h1 {
-    height: 84px;
-    width: 367px;
-    font-family: 'Ibarra Real Nova', serif;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 42px;
-    letter-spacing: -0.357143px;
-    color: #33323D;
+  height: 84px;
+  width: 367px;
+  font-family: "Ibarra Real Nova", serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+  color: #33323d;
 }
 
-
 .button-contact a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 48px;
-    width: 168px;
-    border: 1px solid #33323D;
-    text-decoration: none;
-    font-family: 'Public Sans', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 14px;
-    letter-spacing: 2px;
-    color: #33323D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  width: 168px;
+  border: 1px solid #33323d;
+  text-decoration: none;
+  font-family: "Public Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  color: #33323d;
 }
 
 .button-contact a:hover {
-    background-color: #33323D;
-    color: #FAFAFA;
+  background-color: #33323d;
+  color: #fafafa;
 }
 
 footer {
-    display: flex;
-    align-items: center;
-    height: 80px;
-    margin-top: 150px;
-    background-color:#33323D;
+  display: flex;
+  align-items: center;
+  height: 80px;
+  margin-top: 150px;
+  background-color: #33323d;
 }
 
 .logo-footer {
-    margin-left: 165px;
+  margin-left: 165px;
 }
 
 .nav-bar-footer {
-    margin-left: 48px;   
+  margin-left: 48px;
 }
 
 footer nav ul {
-    list-style: none;
-    display: flex;
-    gap: 42px;
+  list-style: none;
+  display: flex;
+  gap: 42px;
 }
 
 footer nav ul li a {
-    text-decoration: none;
-    font-family: 'Public Sans', sans -serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 14px;
-    letter-spacing: 2px;
-    color: #FFFFFF;
+  text-decoration: none;
+  font-family: "Public Sans", sans -serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  color: #ffffff;
 }
 
 .social-icons {
-    height: 24px;
-    margin-left: 588px;
+  height: 24px;
+  margin-left: 588px;
 }
 .social-icons ul {
-    display: flex;
-    align-items: center;
-    list-style: none;
-    gap: 15px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 15px;
 }
